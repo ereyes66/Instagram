@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+.instagramContainer {
+    background-color: black;
+}
+
+.instaFont {
+    font-family: 'Arial', sans-serif;
+
+}
+
+.insta-header {
+    color: white;
+}
+
+.carousel-images {}
+
+.lower-header {
+    color: white;
+    display: flex;
+}
+
+.center-stage {}
+
+.footer {
+    color: white;
+}
